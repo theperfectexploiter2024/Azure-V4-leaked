@@ -60,7 +60,7 @@ Kai @wxrpedd
 getgenv().SharpSSilent = {
     Enabled = true,
     Prediction = 0.1215,
-    Keybind = "e",
+    Keybind = "Q",
     Resolver = false,
     WallCheck = true,
     FovSettings = {
