@@ -60,14 +60,14 @@ Kai @wxrpedd
 getgenv().SharpSSilent = {
     Enabled = true,
     Prediction = 0.1215,
-    Keybind = "A",
+    Keybind = "e",
     Resolver = false,
     WallCheck = true,
     FovSettings = {
         FovVisible = true,
-        FovRadius = 120,
+        FovRadius = 170,
         FovThickness = 2,
-        FovTransparency = 0.7,
+        FovTransparency = 0.2,
         FovColor = Color3.fromRGB(255, 255, 255),
         Filled = false,
         FillTransparency = 0.9,
